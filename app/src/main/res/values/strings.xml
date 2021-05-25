@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="user_name">Username</string>
+    <string name="detail">Name</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="repository">Repository</string>
+    <string name="location">Location</string>
+    <string name="username">Username</string>
+    <string name="company">Company</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="change_language_settings">change language settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="find_username">Find Username</string>
+    <string name="notifications">notifications</string>
+    <string name="favorite">Favorite</string>
+    <string name="reminder_settings">Reminder Settings</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="desc">this is containing description</string>
+</resources>
